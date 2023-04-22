@@ -5,8 +5,8 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>KEVCHAMP333's Tech Blog</title>
-	<link href="http://kevchamp333.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://kevchamp333.github.io/blog"/>
+	<link href="http://kevchamp333.github.io/Data Analysis/atom.xml" rel="self"/>
+	<link href="http://kevchamp333.github.io/Data Analysis"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://kevchamp333.github.io/Data Anlysis</id>
 	<author>
