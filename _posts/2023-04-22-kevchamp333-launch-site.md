@@ -11,3 +11,5 @@ date: 2023-04-22
 New tech blog launched. Neat!
 
 Looking forward to it.
+
+![first image](/D:/work/tech_blog/images/start.png)
