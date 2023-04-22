@@ -1,5 +1,5 @@
 ---
-layout: data_analysis_post
+layout: daily_news_posts
 title: "print(‘Hello Data Science!’)"
 date: 2023-04-22
 ---
