@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>WooYoung Hwang's Tech B;pg</title>
+	<title>kevchamp333's Tech Blog</title>
 	<link href="http://kevchamp333.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://kevchamp333.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://kevchamp333.github.io/blog</id>
+	<id>http://kevchamp333.github.io/Data Anlysis</id>
 	<author>
 		<name>WooYoung Hwang/name>
 		<email>kevchamp333@gmail.com</email>
