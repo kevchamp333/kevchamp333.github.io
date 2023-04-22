@@ -14,7 +14,7 @@ layout: feed
 		<email>kevchamp333@gmail.com</email>
 	</author>
 
-	{% for post in site.daily_news_posts %}
+	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://kevchamp333.github.io{{ post.url }}"/>
