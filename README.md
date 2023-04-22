@@ -1,2 +1,2 @@
 # kevchamp333.github.io
-# tech_blog
+# tech_blog of a data scientist
