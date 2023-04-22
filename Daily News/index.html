@@ -6,6 +6,6 @@ title: Daily News
 	<ul class="daily_news_posts">
 
 	  {% for post in site.daily_news_posts %}
-	    <li><span>{{ daily_news_posts.date | date_to_string }}</span> » <a href="{{ daily_news_posts.url }}" title="{{ daily_news_posts.title }}">{{ daily_news_posts.title }}</a></li>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
